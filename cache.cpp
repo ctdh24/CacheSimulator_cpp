@@ -1,3 +1,8 @@
+/*
+Calvin Huynh, Andy Polanco
+CS 161L Spring 2014
+Lab7 - Cache Simulator
+*/
 #include <iostream>
 #include <iomanip>
 #include <vector>
